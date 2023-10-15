@@ -4,7 +4,7 @@
 Title
 Automatic optimization of Multi-Loss Weights for MR image synthesis using Coefficient of Variation Analysis
  
-Authors 정우진, 최대현, 강연아, 이호준, 남윤호
+Authors 최대현, 정우진, 강연아, 이호준, 남윤호
  
 Objective
 Recently, deep learning-based medical image synthesis has been suggested in various applications such as modality or contrast conversion tasks. In these tasks, it is common to use a combination of multiple loss functions to improve the quality of synthetic images. However, most previous studies rely on empirical methods to determine the weight of each loss function. This heuristic approach is difficult to guarantee optimal results and can be time-consuming. In this work, we investigate an automatic algorithm for determining the optimal combination of loss function weights for medical image synthesis.
